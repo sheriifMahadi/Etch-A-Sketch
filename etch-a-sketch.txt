@@ -1,0 +1,13 @@
+First create a 16x16 grid using flexbox. The div should be created using JavaScript. Put them in a container div. 
+
+Put a hover effect on the grid divs so when a mouse passes it has a pixelated effect. Use event listeners and change the color  into something random using javaScript. 
+
+Put a button that says "Grid", this button produces a pop up and asks for number of grid to create, 99 is the limit. Also maybe be able to update the pixels without changing anything.
+
+Give an option to pass an RGB value or plain black. Pixels are initially white.
+
+
+
+
+
+
